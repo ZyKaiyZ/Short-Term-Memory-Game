@@ -1,5 +1,5 @@
 
-# Short-Term-Memory-Game
+# short-term-memory-game
 
 Short-Term-Memory-Game is a Python project that implements a simple memory game. The game presents random strings to the player, and the player needs to input the same string within a certain time limit to earn points. The game keeps track of the player's correct and incorrect answers.
 
